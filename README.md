@@ -1,4 +1,6 @@
 # TinyMCE image upload plugin - Laravel 5
+
+[![Join the chat at https://gitter.im/marcelgruber/tinyMCE-image-upload-plugin-for-laravel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcelgruber/tinyMCE-image-upload-plugin-for-laravel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is the simplest implementation of a tinyMCE plugin for integrating with Laravel routes and controllers.  This will allow you to add a button to tinyMCE which will let a user select an image file to upload.  After the file is selected, the form is submitted, and you can process the image using whatever methods you choose.
 
 **This implementation is light weight and allows for lots of customization, but is not recommended for those that are not familiar with the Laravel framework to include routes and controllers.**
